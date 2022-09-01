@@ -26,4 +26,6 @@
 
 13-symbolic_link creates a symbolic link in the current working directory.
 
-14-copy_html copies HTML files that did not exist in the parent directory or were newer than those in the parent directory. 
+14-copy_html copies HTML files that did not exist in the parent directory or were newer than those in the parent directory.
+
+100-lets_move moves all files that begin with an uppercase letter to the directory. 
