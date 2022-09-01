@@ -20,4 +20,6 @@
 
 10-back script that changes the working directory to the previous one.
 
-11-lists script lists all files even the hidden ones in different directories. 
+11-lists script lists all files even the hidden ones in different directories.
+
+12-file_type prints the file type in the /tmp directory 
