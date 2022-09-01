@@ -12,4 +12,6 @@
 
 6-firstdirectory script that creates a directory inside another directory
 
-7-movethatfile move the file betty from tmp to tmp/my_first_directory 
+7-movethatfile move the file betty from tmp to tmp/my_first_directory
+
+8-firstdelete deletes the file betty from the /tmp/my_first_directory/ directory. 
