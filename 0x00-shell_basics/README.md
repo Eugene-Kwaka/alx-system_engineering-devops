@@ -10,4 +10,6 @@
 
 5-listfilesdigitonly display contents in long format, user ids and displayed numerically and hidden files starting with.
 
-6-firstdirectory script that creates a directory inside another directory 
+6-firstdirectory script that creates a directory inside another directory
+
+7-movethatfile move the file betty from tmp to tmp/my_first_directory 
