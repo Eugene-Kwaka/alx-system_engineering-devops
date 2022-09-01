@@ -32,4 +32,6 @@
 
 101-clean_emacs deletes files that end with ~ character.
 
-102-tree creates a tree of directories. 
+102-tree creates a tree of directories.
+
+103-commas lists all files and directories of the current directory separated by commas.
