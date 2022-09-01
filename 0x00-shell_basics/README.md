@@ -14,4 +14,6 @@
 
 7-movethatfile move the file betty from tmp to tmp/my_first_directory
 
-8-firstdelete deletes the file betty from the /tmp/my_first_directory/ directory. 
+8-firstdelete deletes the file betty from the /tmp/my_first_directory/ directory.
+
+9-firstdirdeletion deletes the /my_first_directory/ from /tmp/ 
