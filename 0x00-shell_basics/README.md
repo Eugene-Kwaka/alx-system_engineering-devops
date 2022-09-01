@@ -16,4 +16,6 @@
 
 8-firstdelete deletes the file betty from the /tmp/my_first_directory/ directory.
 
-9-firstdirdeletion deletes the /my_first_directory/ from /tmp/ 
+9-firstdirdeletion deletes the /my_first_directory/ from /tmp/
+
+10-back script that changes the working directory to the previous one. 
