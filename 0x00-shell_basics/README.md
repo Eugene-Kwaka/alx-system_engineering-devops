@@ -8,4 +8,6 @@
 
 4-listmorefiles displays current directory contents, including hiddenfiles(starting with .), use long format.
 
-5-listfilesdigitonly display contents in long format, user ids and displayed numerically and hidden files starting with . 
+5-listfilesdigitonly display contents in long format, user ids and displayed numerically and hidden files starting with.
+
+6-firstdirectory script that creates a directory inside another directory 
