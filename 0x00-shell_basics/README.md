@@ -6,3 +6,4 @@
 
 3-listfiles displays current directory contents in long format.
 
+4-listmorefiles displays current directory contents, including hiddenfiles(starting with .), use long format.
