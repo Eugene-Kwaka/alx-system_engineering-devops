@@ -30,4 +30,6 @@
 
 100-lets_move moves all files that begin with an uppercase letter to the directory.
 
-101-clean_emacs deletes files that end with ~ character. 
+101-clean_emacs deletes files that end with ~ character.
+
+102-tree creates a tree of directories. 
