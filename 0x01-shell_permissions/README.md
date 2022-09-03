@@ -22,4 +22,6 @@
 
 11-directories_permissions gives execute permissions to everybody to the subdirectories of the current directory.
 
-12-directory_permissions creates directory with 751 permission.  
+12-directory_permissions creates directory with 751 permission.
+
+13-change_group to change group owner to school for the hello file.  
