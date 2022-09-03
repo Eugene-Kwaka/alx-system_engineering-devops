@@ -16,4 +16,6 @@
 
 8-James_Bond allows only other users to manipulate the file. 
 
-9-John Doe has specific rules for file owner, group and others 753. 
+9-John Doe has specific rules for file owner, group and others 753.
+
+10-mirror_permissions gives file mirror permission based on olleh. 
