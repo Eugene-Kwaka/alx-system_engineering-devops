@@ -28,4 +28,6 @@
 
 100-change_owner_and_group changes the owner to a certain group.
 
-101-symbolic_link_permissions changes owner of hello to vincent and the group to staff.  
+101-symbolic_link_permissions changes owner of hello to vincent and the group to staff.
+
+102-if_only changes owner of hello file to betty only if it is under the group guillaume.   
