@@ -18,4 +18,6 @@
 
 9-John Doe has specific rules for file owner, group and others 753.
 
-10-mirror_permissions gives file mirror permission based on olleh. 
+10-mirror_permissions gives file mirror permission based on olleh.
+
+11-directories_permissions gives execute permissions to everybody to the subdirectories of the current directory.  
