@@ -24,4 +24,6 @@
 
 12-directory_permissions creates directory with 751 permission.
 
-13-change_group to change group owner to school for the hello file.  
+13-change_group to change group owner to school for the hello file.
+
+100-change_owner_and_group changes the owner to a certain group.  
