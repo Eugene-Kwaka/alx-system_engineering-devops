@@ -15,3 +15,5 @@
 7-everybody gives everybody execute permissions.
 
 8-James_Bond allows only other users to manipulate the file. 
+
+9-John Doe has specific rules for file owner, group and others 753. 
