@@ -7,3 +7,5 @@
 3-new_owner changes the owner of a file to betty.
 
 4-empty creates an empty file.
+
+5-execute gives execute permission to user.
