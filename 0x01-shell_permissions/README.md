@@ -9,3 +9,5 @@
 4-empty creates an empty file.
 
 5-execute gives execute permission to user.
+
+6-multiple_permissions gives execute permissions to owner and group while other can only read.
