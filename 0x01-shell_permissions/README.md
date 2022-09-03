@@ -5,3 +5,5 @@
 2-groups prints all the groups the user is part of.
 
 3-new_owner changes the owner of a file to betty.
+
+4-empty creates an empty file.
