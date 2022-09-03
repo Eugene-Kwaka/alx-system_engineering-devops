@@ -12,4 +12,6 @@
 
 6-multiple_permissions gives execute permissions to owner and group while other can only read.
 
-7-everybody gives everybody execute permissions. 
+7-everybody gives everybody execute permissions.
+
+8-James_Bond allows only other users to manipulate the file. 
