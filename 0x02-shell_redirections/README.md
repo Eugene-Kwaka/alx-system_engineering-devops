@@ -3,3 +3,5 @@
 1-confused_smiley displays a special character.
 
 2-hellofile displays content of a file in directory.
+
+3-twofiles display files in 2 directories.
