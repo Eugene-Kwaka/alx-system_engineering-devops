@@ -8,4 +8,7 @@
 
 4-global_variables prints the environment variables.
 
-5-local_variables lists all local and env variables and functions. 
+5-local_variables lists all local and env variables and functions.
+
+6-create_local_variable creates a new local variable .
+ 
