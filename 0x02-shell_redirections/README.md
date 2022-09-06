@@ -7,3 +7,5 @@
 3-twofiles display files in 2 directories.
 
 4-lastlines displays the last 10 lines of a file.
+
+5-firstlines displayys the first 10 lines of a file.
