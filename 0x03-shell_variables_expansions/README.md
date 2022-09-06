@@ -18,4 +18,6 @@
 
 9-divide_and_rule prints the result of the division of two env vars.
 
-10-love_exponent_breath displays result of one env to the power of another env. 
+10-love_exponent_breath displays result of one env to the power of another env.
+
+11-binary_to_decimal converts a value in an env from base 2 to base 10. 
