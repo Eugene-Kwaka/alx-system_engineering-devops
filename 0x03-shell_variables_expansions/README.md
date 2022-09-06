@@ -16,4 +16,6 @@
 
 8-true_knowledge prints the result of the sum of an env var to 128.
 
-9-divide_and_rule prints the result of the division of two env vars. 
+9-divide_and_rule prints the result of the division of two env vars.
+
+10-love_exponent_breath displays result of one env to the power of another env. 
