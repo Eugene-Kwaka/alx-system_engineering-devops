@@ -15,3 +15,5 @@
 7-file creates a file with a text inside.
 
 8-cwd state writes into a file result of command ls -la and if content already exists it is overwritten.
+
+9-duplicate_last_line actually duplicates the last line of the file.
