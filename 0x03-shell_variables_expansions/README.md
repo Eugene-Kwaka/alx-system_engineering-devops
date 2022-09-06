@@ -31,3 +31,5 @@
 101-rot13 script encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 102-prints every other line from the input starting with the first line.
+
+103-water_and_stir adds two numbers stored in env var $WATER with base 'water' and $STIR and prints result in base 'bestchol'.
