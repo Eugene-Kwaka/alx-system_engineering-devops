@@ -24,4 +24,6 @@
 
 12-newest_files displays the 10 newest files in the directory. 
 
-13-unique lists words as inputs and prints only words that appear once .
+13-unique lists words as inputs and prints only words that appear once.
+
+14-findthatword displays the pattern "root" from a file.
