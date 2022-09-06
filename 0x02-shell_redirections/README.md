@@ -46,4 +46,9 @@
 
 100-empty_casks finds all empty files and directories including hidden ones and displays one per line.
 
-101-gifs lists all files with a .gif extensions. The files contains hidden files and the names not to have the .gif part. They are all sorted by -byte values but case insensitive. One file per line. 
+101-gifs lists all files with a .gif extensions. The files contains hidden files and the names not to have the .gif part. They are all sorted by -byte values but case insensitive. One file per line.
+
+102-acrostic is a script that decodes acrostics that use the first letter of each line.
+
+
+ 
