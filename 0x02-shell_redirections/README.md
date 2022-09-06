@@ -37,3 +37,5 @@
 18-letteronly displays all lines of a file starting with a letter.
 
 19-AZ replaces all characters A and C from input to z and e respectively.
+
+20-hiago removs all the letters c and C from input.
