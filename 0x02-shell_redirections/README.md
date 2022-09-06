@@ -31,3 +31,5 @@
 15-countthatword displays the number of lines with the pattern "bin" in the file.
 
 16-whatsnext displays lines with the pattern "root" and 3 lines after them in the file.
+
+17-hidethisword displays words that do not have the pattern "bin". 
