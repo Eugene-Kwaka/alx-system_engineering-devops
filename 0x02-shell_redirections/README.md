@@ -35,3 +35,5 @@
 17-hidethisword displays words that do not have the pattern "bin". 
 
 18-letteronly displays all lines of a file starting with a letter.
+
+19-AZ replaces all characters A and C from input to z and e respectively.
