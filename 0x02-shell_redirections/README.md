@@ -5,3 +5,5 @@
 2-hellofile displays content of a file in directory.
 
 3-twofiles display files in 2 directories.
+
+4-lastlines displays the last 10 lines of a file.
