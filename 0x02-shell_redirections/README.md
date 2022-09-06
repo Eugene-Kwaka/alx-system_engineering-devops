@@ -13,3 +13,5 @@
 6-third_line display the 3rd Line of the file.
 
 7-file creates a file with a text inside.
+
+8-cwd state writes into a file result of command ls -la and if content already exists it is overwritten.
