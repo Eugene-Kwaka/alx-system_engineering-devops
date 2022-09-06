@@ -23,3 +23,5 @@
 11-directories counts all directories and subdirectories in the current directory.
 
 12-newest_files displays the 10 newest files in the directory. 
+
+13-unique lists words as inputs and prints only words that appear once .
