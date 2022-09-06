@@ -20,4 +20,6 @@
 
 10-love_exponent_breath displays result of one env to the power of another env.
 
-11-binary_to_decimal converts a value in an env from base 2 to base 10. 
+11-binary_to_decimal converts a value in an env from base 2 to base 10.
+
+12-combinations prints all possible combinations of two letters in alpha order except from oo starting from a to z with max of 64 characters.
