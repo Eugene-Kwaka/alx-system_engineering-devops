@@ -27,3 +27,5 @@
 13-print_float prints a number with two decimal places.
 
 100-decimal_to_hexidecimal converts numbers from base 10 to base 16.
+
+101-rot13 script encodes and decodes text using the rot13 encryption. Assume ASCII.
