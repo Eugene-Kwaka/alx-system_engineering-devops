@@ -9,3 +9,5 @@
 4-lastlines displays the last 10 lines of a file.
 
 5-firstlines displayys the first 10 lines of a file.
+
+6-third_line display the 3rd Line of the file.
