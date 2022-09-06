@@ -14,4 +14,6 @@
 
 7-create_global_variable creates a new global var.
 
-8-true_knowledge prints the result of the sum of an env var to 128. 
+8-true_knowledge prints the result of the sum of an env var to 128.
+
+9-divide_and_rule prints the result of the division of two env vars. 
