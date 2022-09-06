@@ -4,4 +4,6 @@
 
 2-path adds /action dir to the PATH. The /action dir should be last dir looked into by shell when looking for a program.
 
-3-paths counts the number of directories in the PATH. 
+3-paths counts the number of directories in the PATH.
+
+4-global_variables prints the environment variables. 
