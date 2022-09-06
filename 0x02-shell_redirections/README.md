@@ -33,3 +33,5 @@
 16-whatsnext displays lines with the pattern "root" and 3 lines after them in the file.
 
 17-hidethisword displays words that do not have the pattern "bin". 
+
+18-letteronly displays all lines of a file starting with a letter.
