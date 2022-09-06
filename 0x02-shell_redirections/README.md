@@ -21,3 +21,5 @@
 10-no_more_js deletes all the js files in a directory.
 
 11-directories counts all directories and subdirectories in the current directory.
+
+12-newest_files displays the 10 newest files in the directory. 
