@@ -25,3 +25,5 @@
 12-combinations prints all possible combinations of two letters in alpha order except from oo starting from a to z with max of 64 characters.
 
 13-print_float prints a number with two decimal places.
+
+100-decimal_to_hexidecimal converts numbers from base 10 to base 16.
