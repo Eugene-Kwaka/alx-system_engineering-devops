@@ -11,3 +11,5 @@
 5-firstlines displayys the first 10 lines of a file.
 
 6-third_line display the 3rd Line of the file.
+
+7-file creates a file with a text inside.
